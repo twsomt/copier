@@ -1,0 +1,29 @@
+# Python-related
+__pycache__/
+*.py[cod]
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Environment-related
+.env
+
+# Environment example
+.env.example
+
+# Compiled binaries
+*.so
+*.pyd
+*.dll
+
+# Temporary files
+*.log
+*.bak
+*.swp
+
+# Compiled Python files
+*.pyc
+
+# Virtual environment
+venv/
